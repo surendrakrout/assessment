@@ -1,0 +1,14 @@
+/* app css stylesheet */
+
+.container{
+  border:1px solid #ccc;
+  width: 50%;
+  margin-top: 0px auto;
+  padding: 10px;
+}
+.form-control{
+  margin: 5px;
+}
+.sub-button{
+text-align: center;
+}

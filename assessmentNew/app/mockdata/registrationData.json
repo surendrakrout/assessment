@@ -1,0 +1,13 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "first_name": "surendra",
+      "last_name": "rout",
+      "email": "test@gmail.com",
+      "password": "hhhh",
+      "dob": "",
+      "sex": ""
+    }
+  ]
+}
